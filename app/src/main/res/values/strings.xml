@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">BdPlayerApp</string>
+    <string name="SakibAlHasan">
+        Name:Sakib Al Hasan.
+        Category:Grade A
+        Batting Stlye: left Handed Alrounder.
+        Batting Order: 5
+        Salary: $1 million
+        Tournaments teams:Kolkata Knight Riders (IPL), Fortune Barishal (BPL),
+        Peshawar Zalmi (PSL)
+    </string>
+    <string name="TamimIqbal">
+         Name:Tamim Iqbal.
+        Category:Grade A
+        Batting Stlye: left Handed Batsman.
+        Batting Order: 1
+        Salary: $900,000
+        Tournaments teams:Kolkata Knight Riders (IPL), Fortune Barishal (BPL),
+        Peshawar Zalmi (PSL
+    </string>
+    <string name="MominulHaque">
+        Name:Mominul Haque.
+        Category:Grade A
+        Batting Stlye: left Handed Batsman.
+        Batting Order: 3.
+        Salary: $800,000
+        Tournaments teams:Chattogram Division (BPL), Prime Bank (DPL)
+    </string>
+    <string name="LitonDas">
+        Name:Liton Kumar Das.
+        Category:Grade A
+        Batting Stlye: Right Handed Batsman.
+        Batting Order: 4.
+        Salary: $700,000
+        Tournaments teams:Kolkata Knight Riders (IPL), Fortune Barishal (BPL),
+        Comilla Victorians (DPL)
+    </string>
+    <string name="ZakirHasan">
+        Name:Zakir Hasan
+        Category:Grade A
+        Batting Stlye: Right Handed Batsman.
+        Batting Order: 6.
+        Salary: $600,000
+        Tournaments teams:Sylhet Division (BPL), Rupganj Tigers (DPL)
+    </string>
+    <string name="NazmulHasanShanto">
+        Name:Nazmul Hasan Shanto
+        Category:Grade A
+        Batting Stlye: Left Handed Batsman.
+        Batting Order: 2.
+        Salary: $500,000
+        Tournaments teams:Rajshahi Division (BPL), Abahani Limited (DPL)
+    </string>
+    <string name="TowhidHridoy">
+        Name:Towhid Hridoy
+        Category:Grade A
+        Batting Stlye: Right Handed Batsman.
+        Batting Order: 5.
+        Salary: $400,000
+        Tournaments teams:Rajshahi Division (BPL), Sheikh Jamal Dhanmondi Club (DPL)
+    </string>
+    <string name="AfifHossain">
+        Name:Afif Hossain
+        Category:Grade A
+        Batting Stlye: Left Handed Batsman.
+        Batting Order: 7.
+        Salary: $300,000
+        Tournaments teams:Dhaka Division (BPL), Comilla Victorians (DPL)
+    </string>
+    <string name="YasirAli">
+        Name:Yasir Ali
+        Category:Grade A
+        Batting Stlye: Right Handed Batsman.
+        Batting Order: 8.
+        Salary: $200,000
+        Tournaments teams:Chattogram Division (BPL), Prime Bank (DPL)
+    </string>
+    <string name="MustafizurRahman">
+        Name:Mustafizur Rahman
+        Category:Grade A
+        Batting Stlye: Left Handed Bowler.
+        Batting Order: 9.
+        Salary: $150,000
+        Tournaments teams:Rajasthan Royals (IPL), Fortune Barishal (BPL),
+        Quetta Gladiators (PSL)
+    </string>
+    <string name="MehidyHasanMiraz">
+        Name:Mehidy Hasan Miraz
+        Category:Grade A
+        Batting Stlye: Right Handed Batsman.
+        Batting Order: 10.
+        Salary: $100,000
+        Tournaments teams:Kolkata Knight Riders (IPL), Fortune Barishal (BPL),
+        Karachi Kings (PSL)
+    </string>
+    <string name="ShorifulIslam">
+        Name:Shoriful Islam
+        Category:Grade A
+        Batting Stlye: Left Handed Bowler.
+        Batting Order: 11.
+        Salary: $50,000
+        Tournaments teams:	Sunrisers Hyderabad (IPL), Fortune Barishal (BPL),
+        Multan Sultans (PSL)
+    </string>
+</resources>
